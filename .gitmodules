@@ -1,0 +1,3 @@
+[submodule "nba-stats-predictor-application"]
+	path = nba-stats-predictor-application
+	url = https://github.com/dhrbtjr0331/nba-stats-predictor-app.git
