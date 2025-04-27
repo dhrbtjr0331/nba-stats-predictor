@@ -2,7 +2,7 @@
 
 An MCP-powered tool for the NBA stats predictor app that generates player performance forecasts using real-time data analysis and advanced statistical modeling.
 
-[![MCP-powered tool for the NBA stats predictor app](https://img.youtube.com/vi/FtH0NlvjHlM/0.jpg)](https://youtu.be/FtH0NlvjHlM)
+[![Demo](https://img.youtube.com/vi/8uVuVz1Fbu0/0.jpg)](https://youtu.be/8uVuVz1Fbu0)
 ## Installation
 
 ### Prerequisites
