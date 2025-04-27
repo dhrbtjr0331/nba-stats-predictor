@@ -11,7 +11,7 @@ An MCP-powered tool for the NBA stats predictor app that generates player perfor
 
 ### Step-by-Step Setup
 
-1. Download the zip file
+1. Clone this repository onto your local device
 
 2. Navigate to the project directory:
    ```bash
